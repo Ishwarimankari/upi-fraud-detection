@@ -120,6 +120,4 @@ jupyter notebook notebooks/01.eda.ipynb
 
 ---
 
-## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
